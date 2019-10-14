@@ -1,0 +1,21 @@
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      
+      #map {
+        position: absolute;
+        bottom: 30px;
+        left: 10px;
+        height: 100px;
+        width: 218px;
+        border: 2px solid black;
+        z-index: 999;
+      }
+      
+      #pano {
+        height: 100%;
+        width: 100%;
+      }
